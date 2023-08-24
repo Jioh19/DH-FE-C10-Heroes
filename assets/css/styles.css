@@ -162,10 +162,6 @@ footer img {
 }
 
 @media (max-width: 695px) {
-	.superman { 
-		background-image: url("../img/superman3.jpg");
-		image-rendering: auto;
-	}
 
 	.harley {
 		display: none;
